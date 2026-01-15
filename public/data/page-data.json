@@ -1,0 +1,110 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "bishnoisubhash2047@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:hello@imsruthi.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 637 637 2047",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+916376372047"
+      },
+      {
+        "type": "website",
+        "label": "www.linkedin.com/in/subhash-bishnoi-b562681ba",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.linkedin.com/in/subhash-bishnoi-b562681ba"
+      }
+    ],
+    "socialItems": [
+  
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/subhash-bishnoi-b562681ba/"
+      },
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Secondary School Certificate - 2020",
+        "description": "Divine International School, Sanchore - 66%"
+      },
+      {
+        "title": "Higher Secondary Certificate - 2022",
+        "description":"Divine International School, Sanchore - 66%"
+      },
+      {
+        "title": "Bachelor of Technology - 2026",
+        "description": "Parul University, Vadodara - 7.65 CGPA"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Leadership",
+        "icon": "/images/icon/leadership-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Teamwork",
+        "icon": "/images/icon/team-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Communication",
+        "icon": "/images/icon/communication-conversation-bubble-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Problem Solving",
+        "icon": "/images/icon/problem-solving-fix-offer-solution-solve-svgrepo-com.svg",
+        "rating": 4
+      },
+      {
+        "name": "Time Management",
+        "icon": "/images/icon/time-management-clock-svgrepo-com.svg",
+        "rating": 5
+      },
+      {
+        "name": "Creative Thinking",
+        "icon": "/images/icon/idea-bulb-svgrepo-com.svg",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+   
+      {
+        "title": "Instagram",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "bishnoisubhash2047@gmail.com",
+        "link": "mailto:bishnoisubhash2047@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 637 637 2047",
+        "link": "tel:+916376372047"
+      }
+    ]
+  }
+}
